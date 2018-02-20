@@ -7,13 +7,13 @@ title: 薄荷
 subtitle: 喜欢薄荷淡淡的香,喜欢薄荷凉凉的味
 description:
 author: Dzyany
-language: zh-CN
+language:zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://Dzyany.github.io
-root: Dzyany.github.io
+url: http://yoursite.com
+root: 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
